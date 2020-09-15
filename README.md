@@ -6,3 +6,5 @@ Gravity Simulator - [https://andyypark.github.io/CanvasProjects/Gravity/](https:
 Moving Waves - [https://andyypark.github.io/CanvasProjects/MovingWaves/](https://andyypark.github.io/CanvasProjects/MovingWaves/)
 
 Circular Motion - [https://andyypark.github.io/CanvasProjects/CircularMotion/](https://andyypark.github.io/CanvasProjects/CircularMotion/)
+
+Galaxy - [https://andyypark.github.io/CanvasProjects/Galaxy/](https://andyypark.github.io/CanvasProjects/Galaxy/)
